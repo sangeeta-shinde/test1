@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<body>
+<p>
+<a herf="javascript:void(0);">
+useless iink
+</a>
+</p>
+<p>
+<a herf:"javascript:void(document.body.style.backgroundcolor='red');">
+click me to change the background color of body to red
+</a>
+</p>
+</body>
+</html>
