@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> Number Guessing Game  </title>
+</head>
+
+<body>
+<p A small number guessing game. System will select a random number between 1 and 10. See if you can guess it .</p>
+
+
+</body>
+
+
+</html>
